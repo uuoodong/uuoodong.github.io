@@ -1,7 +1,7 @@
-title: "Affiliates"
+title: "uuoodong.github.io"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "https://uuoodong.github.io/"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
